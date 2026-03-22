@@ -36,6 +36,12 @@
 </p>
 
 ---
+## Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
 
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yufei-xiao-1a4971329/)
