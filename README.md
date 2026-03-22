@@ -23,9 +23,17 @@
 ---
 
 
-### 📊 GitHub Stats
-![Yufei's Stats](https://github-readme-stats.vercel.app/api?username=Yufei-Xiao&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yufei-Xiao&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yufei-Xiao&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" height="200px" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yufei-Xiao&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Languages" height="200px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yufei-Xiao&theme=tokyonight&hide_border=false" alt="Streak" width="600px" />
+</p>
 
 ---
 
